@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).GIAIC Hackathon Experience
+The GIAIC Hackathon was an amazing experience that provided a unique opportunity to dive into e-commerce and web development challenges. Abdul Mannan participated in the hackathon, where the main focus was to work on an e-commerce website project. The task involved converting a Figma design into a pixel-perfect and responsive Next.js application, a perfect challenge for front-end developers like yourself.
+
+Key Highlights:
+Real-World Challenge: The hackathon presented a real-world scenario of building a complex e-commerce platform. It required applying advanced web development skills, including responsive design and efficient use of modern frameworks like Next.js.
+
+Teamwork and Collaboration: Working in a collaborative environment with other developers, you got to share ideas, learn from others, and face challenges together, which added to the learning experience.
+
+Learning Opportunity: With time constraints and the technical demands of building a high-quality product, it was an incredible learning experience. It tested your problem-solving, coding skills, and ability to work under pressure.
+
+Networking and Exposure: The event was not just about coding but also about networking with like-minded individuals, potential future collaborators, and industry professionals. It was an excellent opportunity to showcase your skills in front of experts.
+
+Innovation and Creativity: The hackathon encouraged innovative thinking and pushed participants to be creative with the solutions they implemented. From optimizing user interfaces to integrating advanced features, it was a platform to demonstrate the power of modern web technologies.
+
+
+
+
 
 ## Getting Started
 
