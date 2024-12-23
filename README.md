@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).GIAIC Hackathon Experience
 The GIAIC Hackathon was an amazing experience that provided a unique opportunity to dive into e-commerce and web development challenges. Abdul Mannan participated in the hackathon, where the main focus was to work on an e-commerce website project. The task involved converting a Figma design into a pixel-perfect and responsive Next.js application, a perfect challenge for front-end developers like yourself.
 
 Key Highlights:
